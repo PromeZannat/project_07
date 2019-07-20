@@ -1,0 +1,163 @@
+header{
+	background: #2D6768 url(../images/banner.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-blend-mode: soft-light;
+}
+header .row{
+	min-height: 70vh;
+}
+
+@media(max-width: 1199px){
+	header .row{
+		min-height: 50vh;
+	}
+}
+
+@media(max-width: 575px){
+	header .row{
+		min-height: 35vh;
+	}
+}
+
+
+.feature{}
+
+.row{
+    color: #407C7A;
+
+}
+.heading{}
+.heading h2{
+    color: #407C7A;
+    font-size: 30px;
+}
+.heading p{
+    color: #71b2b0;
+}
+
+.feature{}
+.feature h3{}
+.feature p{}
+
+.feature ul{}
+.feature ul .nav{}
+.feature ul li{}
+
+.template-section{
+	background: #EFF1EC;
+}
+
+.theme-section{}
+.theme{}
+.theme h6{     color: #9ace9a }
+
+.map-section{
+	background-image: url(..images/map.png)
+}
+
+
+
+.map-section{
+	background: #EFF1EC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pricing-section{}
+.pricing-section .row {} 
+.pricing-content{}
+.pricing-content h2{}
+.pricing-content p{}
+
+
+.pricing{}
+article{}
+article a{
+    color: #99ce46;
+    font-weight: 500;
+}
+article h2{
+    font-size: 40px;
+    color: #2F696B;
+}
+article span {
+    color: #2F696B;
+    font-weight: 500;
+}
+article p{}
+article a:hover{
+    color: #2F696B;
+}
+button{
+	color: #2F696B;
+}
+
+.help-section{}
+.help-content{}
+.help-content h2{
+    color: #40a940;
+    padding-top: 10px;
+}
+.help-content p{}
+.help-content strong{}
+
+.download-section{
+	    background: #f8f8f2;
+}
+
+.btn{}
+
+
+
+.footer{}
+.wapik-content{}
+.wapik-content strong{
+    font-weight: 900;
+}
+.wapik-content p{
+    font-weight: 500;
+}
+
+
+.company-content{
+    /* font-weight: 900; */
+}
+.company-content strong{
+    font-weight: 900;
+}
+.company-content a{
+    color: #407C7A;
+}
+.company-content a:hover{}
+
+
+.others-content{}
+.others-content strong{
+    font-weight: 900;
+}
+.others-content a{
+    color: #407C7A;
+}
+.others-content a:hover{}
+
+
+.Newsletter-content{}
+.Newsletter-content strong{
+    font-weight: 900;
+}
+.Newsletter-content p{}
+
+
